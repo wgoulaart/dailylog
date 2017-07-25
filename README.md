@@ -4,4 +4,4 @@
 
 ## Jul
 
-- [25 Jul](07-Jul/log-25-07-2017.md) `javascript` `ES6` `Shorthand Properties` `Default Parameters` `New Methods String`
+- [25 Jul](2017/07-Jul/log-25-07-2017.md) `javascript` `ES6` `Shorthand Properties` `Default Parameters` `New Methods String`
