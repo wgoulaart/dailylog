@@ -8,3 +8,6 @@
 
 - :newspaper: [26 Jul ➡️ ](2017/07-Jul/log-26-07-2017.md)
 `ES6` `javascript` `High Performance Animations` `css animation properties` `CSSconf Australia`
+
+- :newspaper: [27 Jul ➡️ ](2017/07-Jul/log-27-07-2017.md)
+`ES6` `javascript` `Destructuring` `Motion UI` `Smooth Web Animations` `CSS`  
