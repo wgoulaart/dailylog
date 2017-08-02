@@ -15,5 +15,5 @@
 - :newspaper: [28 Jul ➡️ ](2017/07-Jul/log-28-07-2017.md)
 `ES6` `javascript` `Spread Operator & Rest` `Web Animation` `Motion Design with CSS` `The Power of CSS` `Front-Trends 2017` `CSSday 2017`
 
-- :newspaper: [29 Jul ➡️ ](2017/07-Jul/log-29-07-2017.md)
-`ES6` `javascript` `Promises`
+- :newspaper: [02 Aug ➡️ ](2017/07-Jul/log-02-08-2017.md)
+`ES6` `javascript` `Promises` `Flexbox Zombies` `CSS3 Animation Cheat Sheet`
