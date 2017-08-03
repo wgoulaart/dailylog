@@ -15,3 +15,4 @@
 ## Aug
 
 - :newspaper: [02 Aug ➡️ ](2017/07-Jul/log-02-08-2017.md) `ES6` `javascript` `Promises` `Flexbox Zombies` `CSS3 Animation Cheat Sheet`
+- :newspaper: [03 Aug ➡️ ](2017/07-Jul/log-03-08-2017.md) `ES6` `javascript` `Class` `Inheritence` `Git` `UX Design` `Remote Work`
