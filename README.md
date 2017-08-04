@@ -18,4 +18,4 @@
 
 - :newspaper: [03 Aug ➡️ ](2017/07-Jul/log-03-08-2017.md) `ES6` `javascript` `Class` `Inheritence` `Git` `UX Design` `Remote Work`
 
-- :newspaper: [04 Aug ➡️ ](2017/07-Jul/log-04-08-2017.md) `ES6` `javascript` `Symbols` `Twitter` `Iterators`
+- :newspaper: [04 Aug ➡️ ](2017/07-Jul/log-04-08-2017.md) `javascript` `Symbols` `Iterators` `Iterable`  `CSS Variables`  `Twitter`
