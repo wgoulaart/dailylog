@@ -1,23 +1,15 @@
-# ~~Dailylog ➡️ Today I Learned~~
+![](daily-logo.png)
 
-:newspaper: List of things learned, watched, listened, read each day, but none of your business.
+Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/README.md)
 
-## Jul
+## 2018
+  #### January
 
-- :newspaper: [25 Jul ➡️](2017/07-Jul/log-25-07-2017.md)   `javascript` `ES6` `Shorthand Properties` `Default Parameters` `New Methods String`
+- 📑 [09 Jan ➡️](2018/01-Jul/log-09-01-2018.md)  `personal goals` `javascript` `javascript ninja course`
 
-- :newspaper: [26 Jul ➡️ ](2017/07-Jul/log-26-07-2017.md) `ES6` `javascript` `High Performance Animations` `css animation properties` `CSSconf Australia`
+___
 
-- :newspaper: [27 Jul ➡️ ](2017/07-Jul/log-27-07-2017.md) `ES6` `javascript` `Destructuring` `Motion UI` `Smooth Web Animations` `CSS`
+_Author this project [William Goulart](https://github.com/wgoulart/)_
 
-- :newspaper: [28 Jul ➡️ ](2017/07-Jul/log-28-07-2017.md) `ES6` `javascript` `Spread Operator & Rest` `Web Animation` `Motion Design with CSS` `The Power of CSS` `Front-Trends 2017` `CSSday 2017`
-
-## Aug
-
-- :newspaper: [02 Aug ➡️ ](2017/08-Aug/log-02-08-2017.md) `ES6` `javascript` `Promises` `Flexbox Zombies` `CSS3 Animation Cheat Sheet`
-
-- :newspaper: [03 Aug ➡️ ](2017/08-Aug/log-03-08-2017.md) `ES6` `javascript` `Class` `Inheritence` `Git` `UX Design` `Remote Work`
-
-- :newspaper: [04 Aug ➡️ ](2017/08-Aug/log-04-08-2017.md) `javascript` `Symbols` `Iterators` `Iterable`  `CSS Variables`  `Twitter`
-
-- 📝: [22 Aug ➡️ ](2017/08-Aug/log-22-08-2017.md) `TDD` `javascript` `Reflexion`
+#### License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
