@@ -8,6 +8,7 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 
 * 📑 [09 Jan ➡️](2018/01-Jan/log-09-01-2018.md) `personal goals` `javascript` `javascript ninja course`
 * 📑 [11 Jan ➡️](2018/01-Jan/log-11-01-2018.md) `Learning English` `personal goals` `javascript` `javascript ninja course`
+* 📑 [12 Jan ➡️](2018/01-Jan/log-12-01-2018.md) `Learning English` `Daylilog` `javascript` `javascript ninja course`
 
 ---
 
