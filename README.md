@@ -12,7 +12,7 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 * 📑 [14 Jan ➡️](2018/01-Jan/log-14-01-2018.md) `Series` `Daylilog`
 * 📑 [15 Jan ➡️](2018/01-Jan/log-15-01-2018.md) `Daylilog` `javascript` `javascript ninja course`
 * 📑 [17 Jan ➡️](2018/01-Jan/log-17-01-2018.md)  `personal goals` `Learning English` `javascript` `javascript ninja course` `SASS` `css transitions and animations`
-
+* 📑 [18 Jan ➡️](2018/01-Jan/log-18-01-2018.md) `Daylilog` `Design` `javascript` `javascript ninja course`
 ---
 
 _Author this project [William Goulart](https://github.com/wgoulart/)_
