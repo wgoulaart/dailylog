@@ -16,6 +16,8 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 * 📑 [19 Jan ➡️](2018/01-Jan/log-19-01-2018.md) `Daylilog`  `Meditation` `javascript` `javascript ninja course` `Practice Exercise` 🏃
 * 📑 [20 Jan ➡️](2018/01-Jan/log-20-01-2018.md) `Daylilog` `Meditation` `javascript` `javascript ninja course`
 * 📑 [21 Jan ➡️](2018/01-Jan/log-21-01-2018.md) `Daylilog` `Free day` `Meditation` `javascript` `javascript ninja course`
+* 📑 [22 Jan ➡️](2018/01-Jan/log-22-01-2018.md) `Daylilog` `English` `Meditation` `javascript` `javascript ninja course`
+
 
 ---
 
