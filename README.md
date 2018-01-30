@@ -20,6 +20,7 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 * 📑 [23 Jan ➡️](2018/01-Jan/log-23-01-2018.md) `Daylilog` `English` `javascript` `javascript ninja course`
 * 📑 [25 Jan ➡️](2018/01-Jan/log-25-01-2018.md) `Daylilog`
 * 📑 [26 Jan ➡️](2018/01-Jan/log-26-01-2018.md) `Daylilog` `Design`  `Links` `javascript` `Electron` `javascript ninja course`
+* 📑 [30 Jan ➡️](2018/01-Jan/log-30-01-2018.md) `Daylilog` `javascript ninja course`
 
 
 ---
