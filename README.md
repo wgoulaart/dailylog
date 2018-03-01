@@ -1,4 +1,5 @@
-![](daily-logo.png)
+
+![](daily-log.png)
 
 Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/README.md)
 
@@ -27,6 +28,10 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 #### February
 * 📑 [01 Feb ➡️](2018/02-Feb/log-01-02-2018.md) `Daylilog` `Links`
 * 📑 [06 Feb ➡️](2018/02-Feb/log-06-02-2018.md) `Daylilog` `Links`
+
+
+#### March
+* 📑 [01 Mar ➡️](2018/02-Mar/log-01-03-2018.md) `Daylilog` `Links`
 ---
 
 _Author this project [William Goulart](https://github.com/wgoulart/)_
