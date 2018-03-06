@@ -1,5 +1,4 @@
-
-![](daily-log.png)
+![](daily-logo.png)  
 
 Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/README.md)
 
