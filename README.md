@@ -31,6 +31,9 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 
 #### March
 * 📑 [01 Mar ➡️](2018/02-Mar/log-01-03-2018.md) `Daylilog` `Links`
+* 📑 [01 Mar ➡️](2018/02-Mar/log-06-03-2018.md) `Daylilog` `Links`
+* 📑 [01 Mar ➡️](2018/02-Mar/log-07-03-2018.md) `Daylilog` `Listenning Audiobook`
+* 📑 [01 Mar ➡️](2018/02-Mar/log-12-03-2018.md) `Daylilog` `Links`
 ---
 
 _Author this project [William Goulart](https://github.com/wgoulart/)_
