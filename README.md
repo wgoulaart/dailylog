@@ -34,6 +34,7 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 * 📑 [06 Mar ➡️](2018/02-Mar/log-06-03-2018.md) `Daylilog` `Meditation` `javascript` `javascript ninja course` `Gym 🏃`
 * 📑 [07 Mar ➡️](2018/02-Mar/log-07-03-2018.md) `Daylilog` `Listenning Audiobook`
 * 📑 [12 Mar ➡️](2018/02-Mar/log-12-03-2018.md) `Daylilog` `javascript ninja course` `Listenning Audiobook`
+* 📑 [15 Mar ➡️](2018/02-Mar/log-15-03-2018.md) `Daylilog` `javascript ninja course` `Listenning Audiobook`
 ---
 
 _Author this project [William Goulart](https://github.com/wgoulart/)_
