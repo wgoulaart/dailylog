@@ -35,6 +35,12 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 * 📑 [07 Mar ➡️](2018/03-Mar/log-07-03-2018.md) `Daylilog` `Listenning Audiobook`
 * 📑 [12 Mar ➡️](2018/03-Mar/log-12-03-2018.md) `Daylilog` `javascript ninja course` `Listenning Audiobook`
 * 📑 [15 Mar ➡️](2018/03-Mar/log-15-03-2018.md) `Daylilog` `javascript ninja course` `Listenning Audiobook`
+
+
+#### April
+* 📑 [03 Apr ➡️](2018/04-Apr/log-03-04-2018.md) `Daylilog` `Design` `Links`
+* 📑 [22 Apr ➡️](2018/04-Apr/log-22-04-2018.md) `Daylilog` `Javascript` `Vue.js` `Course Vue.js Mastering Web Apps`
+* 📑 [23 Apr ➡️](2018/04-Apr/log-23-04-2018.md) `Daylilog` `Javascript` `Vue.js` `Course Vue.js Mastering Web Apps`  
 ---
 
 _Author this project [William Goulart](https://github.com/wgoulart/)_
