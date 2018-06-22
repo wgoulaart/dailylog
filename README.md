@@ -46,6 +46,7 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 #### Jun
 * 📑 [18 Jun ➡️](2018/06-Jun/log-18-06-2018.md) `Daylilog` `Javascript` `Vue.js` `Links` `Design` `UX`  
 * 📑 [20 Jun ➡️](2018/06-Jun/log-20-06-2018.md) `Daylilog` `UX` `Design` `Design Tips` `Javascript` `Vue.js` `Links`   
+* 📑 [22 Jun ➡️](2018/06-Jun/log-20-06-2018.md) `Daylilog` `8-Point Design` `UX` `Design` `Design Tips` `Links`    
 ---
 
 _Author this project [William Goulart](https://github.com/wgoulart/)_
