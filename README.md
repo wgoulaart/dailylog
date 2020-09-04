@@ -1,19 +1,28 @@
+
 ![](daily-logo.png)
 
-Check my daily of [2018](https://github.com/wgoulart/dailylog/tree/master/2018/README.md)
+## Daily.log 2020
 
-## Daily.log 2019
+### September
 
-### January
+- Nothing here ☹️
 
-- 📑 [21 Feb ➡️](2019/02-Feb/log-21-02-2019.md) `Daylilog` `TIL` `Git` `Github`
+## Others logs
 
-### October
+| Year | Logs                                                                                       |
+| :--- | :----------------------------------------------------------------------------------------- |
+| 2019 | Check my daily of [2019](https://github.com/wgoulaart/dailylog/tree/master/2018/README.md) |
+| 2018 | Check my daily of [2018](https://github.com/wgoulaart/dailylog/tree/master/2018/README.md) |
+| 2017 | Check my daily of [2017](https://github.com/wgoulaart/dailylog/tree/master/2017/README.md) |
 
-- 📑 [28 Oct ➡️](2019/10-Oct/log-10-28-2019.md) `Daylilog` `TIL` `Git` `Github`
+---
 
-_Author this project [William Goulart](https://github.com/wgoulart/)_
+ _Author this project [William Goulart](https://github.com/wgoulaart/)_
+| ![William Goulart](https://avatars1.githubusercontent.com/u/2000986?s=80) |
+| :------------------------------------------------------------------------ |
+| [Twitter](https://twitter.com/wgoulaart/)                                 |
+| [Instagram](https://instagram.com/wgoulaart/)                             |
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

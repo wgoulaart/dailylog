@@ -1,6 +1,6 @@
 ![](/daily-logo.png)
 
-Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/README.md)
+Check my daily of [2017](https://github.com/wgoulaart/dailylog/tree/master/2017/README.md)
 
 ## Daily.log 2018
 
@@ -23,34 +23,36 @@ Check my daily of [2017](https://github.com/wgoulart/dailylog/tree/master/2017/R
 * 📑 [30 Jan ➡️](01-Jan/log-30-01-2018.md) `Daylilog` `javascript ninja course`
 * 📑 [31 Jan ➡️](01-Jan/log-30-01-2018.md) `Daylilog` `Electron` `javascript ninja course` `Talk on Youtube`
 
-
 ### February
+
 * 📑 [01 Feb ➡️](02-Feb/log-01-02-2018.md) `Daylilog` `Links`
 * 📑 [02 Feb ➡️](02-Feb/log-02-02-2018.md) `Daylilog` `Links`
 * 📑 [06 Feb ➡️](02-Feb/log-06-02-2018.md) `Daylilog` `Links`
 
-
 ### March
+
 * 📑 [01 Mar ➡️](03-Mar/log-01-03-2018.md) `Daylilog` `Meditation` `javascript` `javascript ninja course`
 * 📑 [06 Mar ➡️](03-Mar/log-06-03-2018.md) `Daylilog` `Meditation` `javascript` `javascript ninja course` `Gym 🏃`
 * 📑 [07 Mar ➡️](03-Mar/log-07-03-2018.md) `Daylilog` `Listenning Audiobook`
 * 📑 [12 Mar ➡️](03-Mar/log-12-03-2018.md) `Daylilog` `javascript ninja course` `Listenning Audiobook`
 * 📑 [15 Mar ➡️](03-Mar/log-15-03-2018.md) `Daylilog` `javascript ninja course` `Listenning Audiobook`
 
-
 ### April
+
 * 📑 [03 Apr ➡️](04-Apr/log-03-04-2018.md) `Daylilog` `Design` `Links`
 * 📑 [22 Apr ➡️](04-Apr/log-22-04-2018.md) `Daylilog` `Javascript` `Vue.js` `Course Vue.js Mastering Web Apps`
 * 📑 [23 Apr ➡️](04-Apr/log-23-04-2018.md) `Daylilog` `Javascript` `Vue.js` `Course Vue.js Mastering Web Apps`  
 
 ### Jun
+
 * 📑 [18 Jun ➡️](06-Jun/log-18-06-2018.md) `Daylilog` `Javascript` `Vue.js` `Links` `Design` `UX`  
-* 📑 [20 Jun ➡️](06-Jun/log-20-06-2018.md) `Daylilog` `UX` `Design` `Design Tips` `Javascript` `Vue.js` `Links`   
-* 📑 [22 Jun ➡️](06-Jun/log-20-06-2018.md) `Daylilog` `8-Point Design` `UX` `Design` `Design Tips` `Links`    
+* 📑 [20 Jun ➡️](06-Jun/log-20-06-2018.md) `Daylilog` `UX` `Design` `Design Tips` `Javascript` `Vue.js` `Links`
+* 📑 [22 Jun ➡️](06-Jun/log-20-06-2018.md) `Daylilog` `8-Point Design` `UX` `Design` `Design Tips` `Links`
+
 ---
 
-_Author this project [William Goulart](https://github.com/wgoulart/)_
+_Author this project [William Goulart](https://github.com/wgoulaart/)_
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
