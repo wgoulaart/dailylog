@@ -5,7 +5,7 @@
 
 ### September
 
-- Nothing here ☹️
+- 📝 [09 Sep ➡️](2020/09-Sep/log-09-09-2020.md) `Daylilog` `Process figma plugin` `Quote today` `workout` `Dica do dia`
 
 ## Others logs
 
