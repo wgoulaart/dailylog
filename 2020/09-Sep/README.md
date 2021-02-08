@@ -1,18 +1,18 @@
 
 ![](daily-logo.png)
 
-## Daily.log 2021
+## Daily.log 2020
 
-### February
+### September
 
-- 📝 [08 Feb ➡️](2021/02-Feb/log-08-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Workout`
+- 📝 [09 Sep ➡️](2020/09-Sep/log-09-09-2020.md) `Daylilog` `Process figma plugin` `Quote today` `workout` `Dica do dia`
 
 ## Others logs
 
 | Year | Logs                                                                                       |
 | :--- | :----------------------------------------------------------------------------------------- |
-| 2020 | Check my daily of [2020](https://github.com/wgoulaart/dailylog/tree/master/2020/README.md) |
-| 2019 | Check my daily of [2019](https://github.com/wgoulaart/dailylog/tree/master/2019/README.md) |
+| 2019 | Check my daily of [2019](https://github.com/wgoulaart/dailylog/tree/master/2018/README.md) |
+| 2019 | Check my daily of [2019](https://github.com/wgoulaart/dailylog/tree/master/2018/README.md) |
 | 2018 | Check my daily of [2018](https://github.com/wgoulaart/dailylog/tree/master/2018/README.md) |
 | 2017 | Check my daily of [2017](https://github.com/wgoulaart/dailylog/tree/master/2017/README.md) |
 
