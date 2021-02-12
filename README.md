@@ -9,7 +9,7 @@
 - 📝 [09 Feb ➡️](2021/02-Feb/log-09-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Workout` `Curso Design Comportamental` `Aprende Design`
 - 📝 [10 Feb ➡️](2021/02-Feb/log-10-02-2021.md) `Daylilog` `Workout` `Read Book and Article``Quote today` `Design` `GTD` `Things`
 - 📝 [11 Feb ➡️](2021/02-Feb/log-11-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Design` `Things`
-- 📝 [12 Feb ➡️](2021/02-Feb/log-12-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Design` `Things`
+- 📝 [12 Feb ➡️](2021/02-Feb/log-12-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Best work` `Invisible Problems` `Design` `Design` `Things` `BEHAVIORAL PSYCHOLOGY HABITS` `SELF-IMPROVEMENT`
 
 ## Others logs
 
