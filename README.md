@@ -12,6 +12,7 @@
 - 📝 [12 Feb ➡️](2021/02-Feb/log-12-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Best work` `Invisible Problems` `Design` `Design` `Things` `BEHAVIORAL PSYCHOLOGY HABITS` `SELF-IMPROVEMENT`
 - 📝 [13 Feb ➡️](2021/02-Feb/log-13-02-2021.md) `Daylilog` `Read Book and Article` `Quote today`
 - 📝 [14 Feb ➡️](2021/02-Feb/log-14-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Design` `Frank Chimero` `Pencil init work` `Papper and pencil` `Best work` `Invisible` `Problems` `Design` `Create` `Author post it notes` `Things` `Design solution`
+- 📝 [15 Feb ➡️](2021/02-Feb/log-15-02-2021.md) `Daylilog` `Read Book and Article` `Quote today` `Design` `Good design` `Accessible`
 
 ## Others logs
 
