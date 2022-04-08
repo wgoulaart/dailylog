@@ -10,7 +10,8 @@
 - 📝 [04 Apr ➡️](2022/04-Apr/log-04-04-2022.md) `Daylilog` `Habits` `Read book` `Quote`
 - 📝 [05 Apr ➡️](2022/04-Apr/log-05-04-2022.md) `Daylilog` `Release process` `Habits` `Read book` `Quote`
 - 📝 [06 Apr ➡️](2022/04-Apr/log-06-04-2022.md) `Daylilog` `TIL` `Habits` `Read book` `Quote`
-- 📝 [07 Apr ➡️](2022/04-Apr/log-07-04-2022.md) `Daylilog` `Habits` `Read book` `Quote`
+- 📝 [07 Apr ➡️](2022/04-Apr/log-07-04-2022.md) `Daylilog` `TIL` `Storybook` `Habits` `Read book` `Quote`
+- 📝 [08 Apr ➡️](2022/04-Apr/log-08-04-2022.md) `Daylilog` `TIL` `Habits` `Read book` `Quote` `Lib flow`
 
 ## Others logs
 
