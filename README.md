@@ -13,7 +13,8 @@
 - 📝 [07 Apr ➡️](2022/04-Apr/log-07-04-2022.md) `Daylilog` `TIL` `Storybook` `Habits` `Read book - 40 Habitos Financeiros para uma vida melhor` `Quote`
 - 📝 [08 Apr ➡️](2022/04-Apr/log-08-04-2022.md) `Daylilog` `TIL` `Habits` `Read book - 40 Habitos Financeiros para uma vida melhor` `Quote` `Lib flow`
 - 📝 [11 Apr ➡️](2022/04-Apr/log-11-04-2022.md) `Daylilog` `TIL` `Habits` `Read book - 40 Habitos Financeiros para uma vida melhor` `Quote`
-- 📝 [12 Apr ➡️](2022/04-Apr/log-12-04-2022.md) `Daylilog` `TIL` `Habits` `Make Indie Apps` `Read book - 40 Habitos Financeiros para uma vida melhor` `Quote`    
+- 📝 [12 Apr ➡️](2022/04-Apr/log-12-04-2022.md) `Daylilog` `TIL` `Habits` `Make Indie Apps` `Read book - 40 Habitos Financeiros para uma vida melhor` `#HF8` `#HF9` `Quote`    
+- 📝 [13 Apr ➡️](2022/04-Apr/log-13-04-2022.md) `Daylilog` `TIL` `Habits` `One thing` `Read book - 40 Habitos Financeiros para uma vida melhor` `#HF10` `Quote`      
 
 ## Others logs
 
