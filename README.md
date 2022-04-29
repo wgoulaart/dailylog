@@ -21,7 +21,8 @@
 - 📝 [20 Apr ➡️](2022/04-Apr/log-20-04-2022.md) `Daylilog` `Habits` `Read book - 40 Habitos Financeiros para uma vida melhor` `CAP.2` `#HF14` `#HF15` `#HF16` `#HF17` `Quote`
 - 📝 [21 Apr ➡️](2022/04-Apr/log-21-04-2022.md) `Daylilog` `Habits` `Read book - 40 Habitos Financeiros para uma vida melhor` `CAP.3` `#HF18` `Quote` `Feriado Tiradentes` `Pupança`
 - 📝 [26 Apr ➡️](2022/04-Apr/log-26-04-2022.md) `Daylilog` `Habits` `Create goals to 2022` `Read book - 40 Habitos Financeiros para uma vida melhor` `CAP.3` `#HF19` `#HF20` `Quote`   
-- 📝 [27 Apr ➡️](2022/04-Apr/log-27-04-2022.md) `Daylilog` `Habits` `goals to 2022` `Read book - 40 Habitos Financeiros para uma vida melhor` `CAP.3` `#HF20` `Quote`   
+- 📝 [27 Apr ➡️](2022/04-Apr/log-27-04-2022.md) `Daylilog` `Habits` `goals to 2022` `Practice walking` `Curso Testes em javascript` `Read book - 40 Habitos Financeiros para uma vida melhor` `CAP.3` `#HF20` `Quote`   
+- 📝 [28 Apr ➡️](2022/04-Apr/log-28-04-2022.md) `Daylilog` `Habits` `Practice walking` `Read book - 40 Habitos Financeiros para uma vida melhor` `CAP.3` `#HF20` `Quote`   
 
 ## Others logs
 
